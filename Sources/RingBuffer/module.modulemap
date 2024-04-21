@@ -1,0 +1,5 @@
+module CTPCircularBuffer {
+    header "include/RingBuffer.h"
+    link "RingBuffer"
+    export *
+}
